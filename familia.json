@@ -1,0 +1,41 @@
+{
+    "familia": [{
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        },
+        {
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        },
+        {
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        },
+        {
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        },
+        {
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        },
+        {
+            "parentezco": "xxxxx",
+            "Nombres": "xxxxx",
+            "Apellidos": "xxxxxxxx",
+            "edad": 14
+        }
+
+
+    ]
+}
